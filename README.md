@@ -23,6 +23,8 @@ Redémarrer le serveur applicatif (Puma ou autre)
 
 Ensuite, ajouter les trackers "Test Case" à vos projets et aussi le tracker "Bug" si vous ne l'avez pas (utile pour rapporter un bug sur un test non concluant).
 
+Bon à savoir : Pour déplacer les cas de tests dans l'onglet "Test Case", il est nécessaire que ces derniers soient au statut "In Progress".
+
 [EN]
 
 Install like any other plugin, unzip or untar the file in the plugin directory and rename the folder simply "redcase".
@@ -34,3 +36,4 @@ Restart your application server (Puma or other)
 
 Then, add the trackers "Test Case" to your projects and also the tracker "Bug" if you don't have it yet (useful to report a bug when a test is not OK).
 
+Nice to know : To drag and drop the tests case in the "Test Case" tab, they need to be at status "In Progress".
